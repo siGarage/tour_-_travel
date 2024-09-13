@@ -322,7 +322,7 @@ filter: alpha(opacity=20);
 
 opacity:10 !important;
 
-color:#F30 !important;
+color:rgb(0, 255, 94) !important;
 
 }
 
@@ -955,7 +955,7 @@ font-size:11px;
 }
 .btn-default {
     color: #fff !important;
-    background: linear-gradient(45deg, #228B22 , #fc951a) !important;
+    background: linear-gradient(45deg, #228B22 , #2E8B57 ) !important;
     border-color: #fff !important; 
     font-weight: bold;
     font-size: 16px;
