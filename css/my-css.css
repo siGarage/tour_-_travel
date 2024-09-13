@@ -44,7 +44,7 @@ body
 
 .gentle-slider
 
-{width:100%;float:left;padding:45px 0px;background:url(../images/main.jpg) center no-repeat;background-size:100% 100%;font-family: 'Titillium Web', sans-serif;margin:0px;}
+{width:100%;float:left;padding:45px 0px;background:url(../images/main.jpg) center no-repeat;background-size:100% 100%;font-family: 'Titillium Web', sans-serif;margin:0px;opacity: 0.8;}
 
 
 body{overflow-x: hidden;}
