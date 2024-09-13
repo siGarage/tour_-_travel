@@ -1,0 +1,2 @@
+[16-Feb-2021 02:19:36 CST6CDT] PHP Parse error:  syntax error, unexpected '"      "' (T_CONSTANT_ENCAPSED_STRING) in /home/infin463/public_html/himachal-packages/functions.php on line 7
+[16-Feb-2021 02:21:07 CST6CDT] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/infin463/public_html/himachal-packages/functions.php on line 7
